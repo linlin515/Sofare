@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SimpleNotepad/SimpleNotepad.iml" filepath="$PROJECT_DIR$/SimpleNotepad/SimpleNotepad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sofare.iml" filepath="$PROJECT_DIR$/Sofare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bilicover/bilicover.iml" filepath="$PROJECT_DIR$/bilicover/bilicover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/takeandsavephototest/takeandsavephototest.iml" filepath="$PROJECT_DIR$/takeandsavephototest/takeandsavephototest.iml" />
+    </modules>
+  </component>
+</project>
